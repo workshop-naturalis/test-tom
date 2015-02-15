@@ -1,5 +1,9 @@
-// Een test file
+// Een file om te oefenen met Git
 
-// Add some new feature in testbranch
+function some_function_01() {
+	// ...
+}
 
-// Added another new feature in test branch
+function some_function_02() {
+	// ...
+}
